@@ -1,0 +1,9 @@
+/Users/Karol/Projects/Zaliczenie/Zaliczenie/bin/Debug/netstandard2.0/Zaliczenie.deps.json
+/Users/Karol/Projects/Zaliczenie/Zaliczenie/bin/Debug/netstandard2.0/Zaliczenie.dll
+/Users/Karol/Projects/Zaliczenie/Zaliczenie/bin/Debug/netstandard2.0/Zaliczenie.pdb
+/Users/Karol/Projects/Zaliczenie/Zaliczenie/obj/Debug/netstandard2.0/Zaliczenie.csprojResolveAssemblyReference.cache
+/Users/Karol/Projects/Zaliczenie/Zaliczenie/obj/Debug/netstandard2.0/Zaliczenie.csproj.CoreCompileInputs.cache
+/Users/Karol/Projects/Zaliczenie/Zaliczenie/obj/Debug/netstandard2.0/Zaliczenie.AssemblyInfoInputs.cache
+/Users/Karol/Projects/Zaliczenie/Zaliczenie/obj/Debug/netstandard2.0/Zaliczenie.AssemblyInfo.cs
+/Users/Karol/Projects/Zaliczenie/Zaliczenie/obj/Debug/netstandard2.0/Zaliczenie.dll
+/Users/Karol/Projects/Zaliczenie/Zaliczenie/obj/Debug/netstandard2.0/Zaliczenie.pdb

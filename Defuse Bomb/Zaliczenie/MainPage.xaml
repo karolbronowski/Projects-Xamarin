@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Zaliczenie" x:Class="Zaliczenie.MainPage">
+    <StackLayout>
+
+        <!-- Place new controls here -->
+
+        <Label Text="Wybierz przycisk od 1 do 3 i sprawdź ile masz szczęścia! " 
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand" />
+
+        <Button Text="1"
+                VerticalOptions="Center"
+                HorizontalOptions="Center" 
+                Clicked="ButtonClicked" />
+      
+
+         <Button Text="2"
+                VerticalOptions="Center"
+                HorizontalOptions="Center" 
+                 Clicked="ButtonClicked" />
+
+        <Button Text="3"
+                VerticalOptions="Center"
+                HorizontalOptions="Center" 
+                Clicked="ButtonClicked" />
+        
+        <Label Text="Wykanał: Karol Bronowski" 
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand" />
+        
+    </StackLayout>
+</ContentPage>
